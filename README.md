@@ -89,10 +89,11 @@ I specialize in building **production-ready AI systems**, including **RAG-based 
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rilufiyy&layout=compact&show_icons=true&locale=en" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rilufiyy&layout=compact&show_icons=true&locale=en&theme=dark" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rilufiyy&show_icons=true&locale=en" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rilufiyy&show_icons=true&locale=en&theme=dark" />
 </p>
