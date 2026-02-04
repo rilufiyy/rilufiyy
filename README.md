@@ -23,7 +23,6 @@
 - 🔭 Currently working on **RAG-based Chatbots & Intelligent AI Systems**  
   using **FastAPI, LangChain, and Groq**
 - 🌱 Currently learning **Advanced NLP, LLM Optimization, and MLOps**
-- 👨‍💻 All projects available at **https://github.com/rilufiyy**
 - 💬 Ask me about **Machine Learning, Deep Learning, LSTM/GRU, RAG, LangChain, FastAPI, Computer Vision**
 - 📫 Reach me at **srilutfiyadwiy@gmail.com**
 
