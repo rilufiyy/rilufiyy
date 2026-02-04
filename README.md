@@ -20,11 +20,6 @@
 
 ---
 
-## 👩‍💻 About Me
-I am an **AI Engineer** with a strong foundation in **Machine Learning, Deep Learning, and Generative AI**, backed by an academic background in **Mathematics**.  
-
-I specialize in building **production-ready AI systems**, including **RAG-based chatbots**, **LLM-powered intelligent assistants**, and **computer vision models**, with an emphasis on scalability, performance, and real-world deployment.
-
 - 🔭 Currently working on **RAG-based Chatbots & Intelligent AI Systems**  
   using **FastAPI, LangChain, and Groq**
 - 🌱 Currently learning **Advanced NLP, LLM Optimization, and MLOps**
@@ -34,29 +29,7 @@ I specialize in building **production-ready AI systems**, including **RAG-based 
 
 ---
 
-## 🔍 NLP & LLM Stack
-- Hugging Face Transformers  
-- LangChain  
-- Retrieval-Augmented Generation (RAG)  
-- Vector Databases  
-- Prompt Engineering  
-- Whisper-1 (Speech-to-Text) & Text-to-Speech  
-
----
-
-## 🚀 Selected Projects
-- **Intelligent Customer Assistant Chatbot**  
-  RAG-based chatbot using FastAPI, LangChain, and Groq with ultra-low latency LLM inference  
-
-- **PlantPal – Plant Disease Detection App**  
-  CNN-based computer vision model (97.2% validation accuracy), deployed with TensorFlow.js  
-
-- **AI Multi-Agent System**  
-  Text, image, and audio generation using OpenAI APIs, Whisper-1 STT, and TTS  
-
----
-
-## 🤝 Connect with Me
+## Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/sri-lutfiya-dwiyeni" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -64,11 +37,14 @@ I specialize in building **production-ready AI systems**, including **RAG-based 
   <a href="https://kaggle.com/srilutfiyadwiyeni" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
   </a>
+  <a href="https://instagram.com/s.fiyy._" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
@@ -84,13 +60,3 @@ I specialize in building **production-ready AI systems**, including **RAG-based 
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rilufiyy&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rilufiyy&layout=compact&theme=dark" />
-</p>
