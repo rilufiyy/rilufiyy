@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="margin-top:-35px; margin-bottom:-10px;">
-  <img src="assets/logo_fiya.png" width="720"/>
+  <img src="assets/logo_fiya.png" width="520"/>
 </p>
 
 <p align="center" style="margin-top:0px; margin-bottom:6px;">
