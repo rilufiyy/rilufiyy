@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2800&color=C8A27A&center=true&vCenter=true&width=820&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Hugging+Face+Transformers&stroke=6F4E37&strokeWidth=0.6" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2800&color=C8A27A&center=true&vCenter=true&width=820&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Transformers&stroke=3B2A20&strokeWidth=0.5" />
 </p>
 
 <p align="center" style="margin-top: 6px; margin-bottom: 12px;">
   <img src="assets/logo_fiya.png"
        alt="Rilufiyy Logo"
-       width="560"
+       width="760"
        style="filter: drop-shadow(0 6px 16px rgba(111,78,55,0.3));" />
 </p>
 
