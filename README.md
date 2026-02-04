@@ -1,26 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f4e37,100:c8a27a&height=220&section=header&text=Holaa,%20Welcome%20to%20My%20GitHub!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f4e37,100:c8a27a&height=180&section=header&text=Holaa,%20Welcome%20to%20My%20GitHub!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6F4E37&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Hugging+Face+Transformers" />
+<p align="center" style="margin-top:-10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=6F4E37&center=true&vCenter=true&width=760&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Hugging+Face+Transformers" />
 </p>
 
-<p align="center" style="margin-top: 10px; margin-bottom: 20px;">
+<p align="center" style="margin-top: 6px; margin-bottom: 12px;">
   <img src="assets/logo_fiya.png"
        alt="Rilufiyy Logo"
-       width="680"
-       style="filter: drop-shadow(0 8px 20px rgba(111,78,55,0.35));" />
+       width="560"
+       style="filter: drop-shadow(0 6px 16px rgba(111,78,55,0.3));" />
 </p>
 
-<h3 align="center">
+<h3 align="center" style="margin-top: 4px;">
 Building Intelligent AI Systems with Strong Mathematical Foundations
 </h3>
 
-<p align="center">
+<p align="center" style="margin-top: 6px;">
   <img src="https://komarev.com/ghpvc/?username=rilufiyy&label=Profile%20views&color=6f4e37&style=flat" alt="rilufiyy" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
