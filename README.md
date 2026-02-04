@@ -6,16 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2800&color=C8A27A&center=true&vCenter=true&width=820&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Transformers&stroke=3B2A20&strokeWidth=0.5" />
 </p>
 
-<p align="center" style="margin-top: 6px; margin-bottom: 12px;">
-  <img src="assets/logo_fiya.png"
-       alt="Rilufiyy Logo"
-       width="760"
-       style="filter: drop-shadow(0 6px 16px rgba(111,78,55,0.3));" />
+<p align="center" style="margin-top:-35px; margin-bottom:-10px;">
+  <img src="assets/logo_fiya.png" width="420"/>
 </p>
 
-<h3 align="center" style="margin-top: 4px;">
-Building Intelligent AI Systems with Strong Mathematical Foundations
-</h3>
+<p align="center" style="margin-top:0px; margin-bottom:6px;">
+  <b>Building Intelligent AI Systems with Strong Mathematical Foundations</b>
+</p>
 
 <p align="center" style="margin-top: 6px;">
   <img src="https://komarev.com/ghpvc/?username=rilufiyy&label=Profile%20views&color=6f4e37&style=flat" alt="rilufiyy" />
