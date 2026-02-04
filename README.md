@@ -9,7 +9,7 @@
 <p align="center" style="margin-top: 10px; margin-bottom: 20px;">
   <img src="assets/logo_fiya.png"
        alt="Rilufiyy Logo"
-       width="520"
+       width="720"
        style="filter: drop-shadow(0 8px 20px rgba(111,78,55,0.35));" />
 </p>
 
