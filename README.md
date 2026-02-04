@@ -6,8 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6F4E37&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Hugging+Face+Transformers" />
 </p>
 
-<p align="center">
-  <img src="assets/logo_fiya.png" alt="Rilufiyy Logo" width="280" />
+<p align="center" style="margin-top: 10px; margin-bottom: 20px;">
+  <img src="assets/logo_fiya.png"
+       alt="Rilufiyy Logo"
+       width="420"
+       style="filter: drop-shadow(0 8px 20px rgba(111,78,55,0.35));" />
 </p>
 
 <h3 align="center">
