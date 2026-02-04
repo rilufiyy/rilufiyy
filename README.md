@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=Sri%20Lutfiya%20Dwiyeni&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f4e37,100:c8a27a&height=220&section=header&text=Sri%20Lutfiya%20Dwiyeni&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Hugging+Face+Transformers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6F4E37&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Hugging+Face+Transformers" />
+</p>
+
+<p align="center">
+  <img src="assets/logo_fiya.png" alt="Rilufiyy Logo" width="280" />
 </p>
 
 <h3 align="center">
@@ -11,17 +15,18 @@ Building Intelligent AI Systems with Strong Mathematical Foundations
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rilufiyy&label=Profile%20views&color=0e75b6&style=flat" alt="rilufiyy" />
+  <img src="https://komarev.com/ghpvc/?username=rilufiyy&label=Profile%20views&color=6f4e37&style=flat" alt="rilufiyy" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-I am an **AI Engineer** with a strong background in **Machine Learning, Deep Learning, and Generative AI**, supported by a solid foundation in **mathematics**.  
+I am an **AI Engineer** with a strong foundation in **Machine Learning, Deep Learning, and Generative AI**, backed by an academic background in **Mathematics**.  
 
-I have hands-on experience building **production-ready AI systems**, including **RAG-based chatbots**, **LLM-powered intelligent assistants**, and **computer vision models**, with a focus on scalability, performance, and real-world deployment.
+I specialize in building **production-ready AI systems**, including **RAG-based chatbots**, **LLM-powered intelligent assistants**, and **computer vision models**, with an emphasis on scalability, performance, and real-world deployment.
 
-- 🔭 Currently working on **RAG-based Chatbots & Intelligent AI Systems** using **FastAPI, LangChain, and Groq**
+- 🔭 Currently working on **RAG-based Chatbots & Intelligent AI Systems**  
+  using **FastAPI, LangChain, and Groq**
 - 🌱 Currently learning **Advanced NLP, LLM Optimization, and MLOps**
 - 👨‍💻 All projects available at **https://github.com/rilufiyy**
 - 💬 Ask me about **Machine Learning, Deep Learning, LSTM/GRU, RAG, LangChain, FastAPI, Computer Vision**
