@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f4e37,100:c8a27a&height=220&section=header&text=Sri%20Lutfiya%20Dwiyeni&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&color=C9A27E&center=true&vCenter=true&width=600&lines=Holaa%2C+Welcome+to+My+GitHub!;AI+%26+ML+Engineer;Building+Intelligent+Systems" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6F4E37&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Hugging+Face+Transformers" />
