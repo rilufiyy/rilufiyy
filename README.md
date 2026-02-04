@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f4e37,100:c8a27a&height=180&section=header&text=Holaa,%20Welcome%20to%20My%20GitHub!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<p align="left" style="margin-top: 6px;">
-  <img src="https://komarev.com/ghpvc/?username=rilufiyy&label=Profile%20views&color=6f4e37&style=flat" alt="rilufiyy" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2800&color=C8A27A&center=true&vCenter=true&width=820&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Transformers&stroke=3B2A20&strokeWidth=0.5" />
 </p>
@@ -16,6 +12,10 @@
 
 <p align="center" style="margin-top:0px; margin-bottom:6px;">
   <b>Building Intelligent AI Systems with Strong Mathematical Foundations</b>
+</p>
+
+<p align="left" style="margin-top: 6px;">
+  <img src="https://komarev.com/ghpvc/?username=rilufiyy&label=Profile%20views&color=6f4e37&style=flat" alt="rilufiyy" />
 </p>
 
 ---
