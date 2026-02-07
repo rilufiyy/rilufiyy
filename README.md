@@ -44,7 +44,7 @@
 ---
 
 ## Languages & Tools
-<p align="left" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<p align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40"/>
