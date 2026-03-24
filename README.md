@@ -23,7 +23,7 @@
 - Currently working on **RAG-based Chatbots & Intelligent AI Systems**  
   using **FastAPI, LangChain, and Groq/OpenAI**
 - Currently learning **Advanced NLP, LLM Optimization, and MLOps**
-- Ask me about **Machine Learning, Deep Learning, LSTM/GRU, RAG, LangChain, FastAPI, Computer Vision**
+- Ask me about **Machine Learning, Deep Learning, LSTM/GRU, RAG, LangChain, FastAPI, NLP**
 - Reach me at **srilutfiyadwiy@gmail.com**
 
 ---
