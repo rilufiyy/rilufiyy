@@ -3,57 +3,98 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2800&color=C8A27A&center=true&vCenter=true&width=820&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Transformers&stroke=3B2A20&strokeWidth=0.5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&duration=2800&color=C8A27A&center=true&vCenter=true&width=820&lines=AI+Engineer;Machine+Learning+%26+Generative+AI;NLP+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangChain+%7C+Transformers" />
 </p>
 
-<p align="center" style="margin-top:-35px; margin-bottom:-10px;">
-  <img src="assets/logo_fiya.png" width="520"/>
+<p align="center">
+  <img src="assets/logo_fiya.png" width="500"/>
 </p>
 
-<p align="center" style="margin-top:0px; margin-bottom:6px;">
-  <b>Building Intelligent AI Systems with Strong Mathematical Foundations</b>
+<p align="center">
+  Building Intelligent AI Systems with Strong Mathematical Foundations
 </p>
 
-<p align="left" style="margin-top: 6px;">
-  <img src="https://komarev.com/ghpvc/?username=rilufiyy&label=Profile%20views&color=6f4e37&style=flat" alt="rilufiyy" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rilufiyy&label=Profile%20Views&color=6f4e37&style=flat" alt="rilufiyy" />
 </p>
 
 ---
 
-- Currently working on **RAG-based Chatbots & Intelligent AI Systems**  
-  using **FastAPI, LangChain, and Groq/OpenAI**
-- Currently learning **Advanced NLP, LLM Optimization, and MLOps**
-- Ask me about **Machine Learning, Deep Learning, LSTM/GRU, RAG, LangChain, FastAPI, NLP**
-- Reach me at **srilutfiyadwiy@gmail.com**
+## About Me
+
+- Currently working on RAG-based Chatbots & Intelligent AI Systems
+- Currently learning Advanced NLP, LLM Optimization, and MLOps
+- Interested in Machine Learning, Deep Learning, LLM, NLP, RAG, LangChain, and FastAPI
+- Email: **srilutfiyadwiy@gmail.com**
 
 ---
 
 ## Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/sri-lutfiya-dwiyeni" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="38"/>
   </a>
+
   <a href="https://kaggle.com/srilutfiyadwiyeni" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="38"/>
   </a>
+
   <a href="https://instagram.com/s.fiyy._" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="38"/>
   </a>
 </p>
 
 ---
 
 ## Languages & Tools
-<p align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+
+<p align="center">
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rilufiyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8a27a&icon_color=c8a27a&text_color=ffffff"
+    height="180"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=rilufiyy&theme=tokyonight&hide_border=true&background=0D1117&ring=C8A27A&fire=C8A27A&currStreakLabel=C8A27A"
+    height="180"
+  />
+
+</p>
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilufiyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8a27a&text_color=ffffff"
+    height="170"
+  />
+
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a27a,100:6f4e37&height=120&section=footer"/>
 </p>
