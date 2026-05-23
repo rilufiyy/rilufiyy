@@ -85,7 +85,7 @@
 
   <img src="https://cdn.simpleicons.org/termius/C8A27A" height="42"/>
 
-  <img src="https://img.shields.io/badge/Transformers-C8A27A?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/>
 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="42"/>
 
