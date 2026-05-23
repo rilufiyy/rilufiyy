@@ -85,7 +85,7 @@
 
   <img src="https://cdn.simpleicons.org/termius/C8A27A" height="42"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="42"/>
+  <img src="https://cdn.simpleicons.org/huggingface/C8A27A" height="42"/> 
 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="42"/>
 
