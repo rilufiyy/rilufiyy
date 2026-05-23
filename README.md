@@ -26,7 +26,7 @@
 
 - Currently working on RAG-based Chatbots & Intelligent AI Systems
 - Currently learning Advanced NLP, LLM Optimization, and MLOps
-- Interested in Machine Learning, Deep Learning, NLP, RAG, LangChain, and FastAPI
+- Interested in LLM, RAG, Machine Learning, Deep Learning, NLP, LangChain, and FastAPI
 - Email: **srilutfiyadwiy@gmail.com**
 
 ---
