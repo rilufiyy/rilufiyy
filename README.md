@@ -24,7 +24,7 @@
 
 - Currently working on RAG-based Chatbots & Intelligent AI Systems
 - Currently learning Advanced NLP, LLM Optimization, and MLOps
-- Interested in Machine Learning, Deep Learning, LLM, NLP, RAG, LangChain, and FastAPI
+- Interested in Machine Learning, Deep Learning, NLP, RAG, LangChain, and FastAPI
 - Email: **srilutfiyadwiy@gmail.com**
 
 ---
@@ -52,18 +52,38 @@
 <p align="center">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40"/>
+
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="40"/>
 
 </p>
 
@@ -72,29 +92,28 @@
 ## GitHub Stats
 
 <p align="center">
-
   <img
     src="https://github-readme-stats.vercel.app/api?username=rilufiyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8a27a&icon_color=c8a27a&text_color=ffffff"
     height="180"
   />
+</p>
 
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=rilufiyy&theme=tokyonight&hide_border=true&background=0D1117&ring=C8A27A&fire=C8A27A&currStreakLabel=C8A27A"
     height="180"
   />
-
 </p>
 
 <p align="center">
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilufiyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8a27a&text_color=ffffff"
     height="170"
   />
-
 </p>
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a27a,100:6f4e37&height=120&section=footer"/>
 </p>
