@@ -1,3 +1,4 @@
+```md id="0w1kqf"
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f4e37,100:c8a27a&height=180&section=header&text=Holaa,%20Welcome%20to%20My%20GitHub!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
@@ -52,7 +53,7 @@
 <p align="center">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/>
@@ -77,9 +78,13 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"/>
+
+  <img src="https://cdn.simpleicons.org/termius/C8A27A" height="40"/>
+
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40"/>
+
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="40"/>
 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40"/>
 
@@ -117,3 +122,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a27a,100:6f4e37&height=120&section=footer"/>
 </p>
+```
