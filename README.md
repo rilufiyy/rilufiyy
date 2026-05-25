@@ -91,6 +91,8 @@
   
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/>
 
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="42"/>
+
 </p>
 
 ---
