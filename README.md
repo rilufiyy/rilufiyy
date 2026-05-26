@@ -93,6 +93,8 @@
 
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="42"/>
 
+  <img src="https://cdn.simpleicons.org/minio/C72E49" height="42"/>
+
 </p>
 
 ---
