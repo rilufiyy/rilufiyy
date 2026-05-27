@@ -87,8 +87,6 @@
 
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="42"/>
-  
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/>
 
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="42"/>
