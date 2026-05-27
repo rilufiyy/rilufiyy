@@ -93,6 +93,8 @@
 
   <img src="https://cdn.simpleicons.org/minio/C72E49" height="42"/>
 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="42"/>
+
 </p>
 
 ---
