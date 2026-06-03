@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f4e37,100:c8a27a&height=180&section=header&text=Holaa,%20Welcome%20to%20My%20GitHub!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6f4e37,100:c8a27a&height=240&section=header&text=Holaa,%20Welcome%20to%20My%20GitHub!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    width="100%"
+  />
 </p>
 
 <p align="center">
@@ -93,7 +96,9 @@
 
   <img src="https://cdn.simpleicons.org/minio/C72E49" height="42"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="42"/>
+  <img src="https://cdn.simpleicons.org/openai/C8A27A" height="42"/>
+
+  <img src="https://cdn.simpleicons.org/langchain/C8A27A" height="42"/>
 
 </p>
 
@@ -103,7 +108,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rilufiyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8a27a&icon_color=c8a27a&text_color=ffffff"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rilufiyy&show_icons=true&theme=tokyonight&hide_border=true"
     height="190"
   />
 </p>
@@ -117,7 +122,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilufiyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8a27a&text_color=ffffff"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rilufiyy&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
