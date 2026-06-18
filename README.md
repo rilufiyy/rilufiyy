@@ -85,6 +85,8 @@
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42"/>
 
   <img src="https://cdn.simpleicons.org/nextdotjs/white" height="42"/>
+  
+  <img src="https://cdn.simpleicons.org/javascript/C8A27A" height="42"/>
 
   <img src="https://cdn.simpleicons.org/termius/C8A27A" height="42"/>
 
