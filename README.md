@@ -107,7 +107,6 @@
 ## GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rilufiyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="190" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=rilufiyy&theme=tokyonight&hide_border=true&background=0D1117&ring=C8A27A&fire=C8A27A&currStreakLabel=C8A27A" height="190" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilufiyy&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a27a,100:6f4e37&height=140&section=footer"/>
